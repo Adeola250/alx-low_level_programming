@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 /**
- * print_number - Prints an integer.
+ * print_numbers - Prints an integer.
  * @n: The integer to prints.
  * Return: Nothing!
  */
 
-void print_number(int n)
+void print_numbers(int n)
 
 {
 
