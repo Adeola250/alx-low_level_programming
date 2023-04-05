@@ -1,4 +1,4 @@
-#include "list.h"
+#include "lists.h"
 
 /**
 * print_listint - prints all the elements of a linked list
@@ -19,4 +19,5 @@ h = h->next;
 
 return (num);
 }
+
 
